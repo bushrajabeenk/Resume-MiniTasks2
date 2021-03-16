@@ -1,0 +1,38 @@
+.column{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px;
+    margin: 2px 2px 2px 2px;
+
+}
+
+.row:after{
+    
+    display: table;
+    clear: both;
+}
+.col1{
+    color: white;
+    background-color: linear-gradient(green 25%, grey 75%);
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+}
+.col2{
+    color: white;
+    background-color: linear-gradient(blue 25%, grey 75%);
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    
+}
+.col3{
+    color: white;
+    background-color: linear-gradient(green 25%, grey 75%);
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    
+}

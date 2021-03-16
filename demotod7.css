@@ -1,0 +1,21 @@
+
+.tooltipclass {
+  position: relative;
+  display: inline-block;
+}
+.tooltipclass  .tooltiptext{
+  background-color: black;
+  padding: 25px 20px 25px 20px;
+  border-radius: 20px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: white;
+  z-index: 1;
+  position: absolute;
+  visibility: hidden;
+  width: 120px;
+}
+.tooltipclass:hover  .tooltiptext{
+  visibility: visible;
+}

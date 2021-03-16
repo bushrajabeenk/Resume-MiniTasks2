@@ -1,0 +1,7 @@
+.mystyle{
+    border-radius: 10px;
+    border: 10px dashed gray;
+    width: 200px;
+    height: 150px;
+    size: 10px;
+}
