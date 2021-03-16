@@ -1,0 +1,8 @@
+body{
+  background-image: url('https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014__340.jpg');
+  background-repeat: no-repeat;
+  background-position:center center;
+  background-attachment: fixed; 
+  width: 20px;
+  height: 20px;
+}
